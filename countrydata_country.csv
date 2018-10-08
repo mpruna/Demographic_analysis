@@ -1,0 +1,252 @@
+id,name,code,capital,population,area,continent_id
+1,Andorra,ad,Andorra la Vella,84000,468,6
+2,United Arab Emirates,ae,Abu Dhabi,4975593,82880,5
+3,Afghanistan,af,Kabul,29121286,647500,5
+4,Antigua and Barbuda,ag,St. Johns,86754,443,2
+5,Anguilla,ai,The Valley,13254,102,2
+6,Albania,al,Tirana,2986952,28748,6
+7,Armenia,am,Yerevan,2968000,29800,5
+8,Netherlands Antilles,an,Willemstad,136197,960,2
+9,Angola,ao,Luanda,13068161,1246700,1
+10,Antarctica,aq,,0,14000000,4
+11,Argentina,ar,Buenos Aires,41343201,2766890,7
+12,American Samoa,as,Pago Pago,57881,199,3
+13,Austria,at,Vienna,8205000,83858,6
+14,Australia,au,Canberra,21515754,7686850,3
+15,Aruba,aw,Oranjestad,71566,193,2
+16,Åland Islands,ax,Mariehamn,26711,0,6
+17,Azerbaijan,az,Baku,8303512,86600,5
+18,Bosnia and Herzegovina,ba,Sarajevo,4590000,51129,6
+19,Barbados,bb,Bridgetown,285653,431,2
+20,Bangladesh,bd,Dhaka,156118464,144000,5
+21,Belgium,be,Brussels,10403000,30510,6
+22,Burkina Faso,bf,Ouagadougou,16241811,274200,1
+23,Bulgaria,bg,Sofia,7148785,110910,6
+24,Bahrain,bh,Manama,738004,665,5
+25,Burundi,bi,Bujumbura,9863117,27830,1
+26,Benin,bj,Porto-Novo,9056010,112620,1
+27,Saint Barthélemy,bl,Gustavia,8450,21,2
+28,Bermuda,bm,Hamilton,65365,53,2
+29,Brunei,bn,Bandar Seri Begawan,395027,5770,5
+30,Bolivia,bo,La Paz,9947418,1098580,7
+31,"Bonaire, Saint Eustatius and Saba",bq,,18012,0,2
+32,Brazil,br,Brasília,201103330,8511965,7
+33,Bahamas,bs,Nassau,301790,13940,2
+34,Bhutan,bt,Thimphu,699847,47000,5
+35,Bouvet Island,bv,,0,0,4
+36,Botswana,bw,Gaborone,2029307,600370,1
+37,Belarus,by,Minsk,9685000,207600,6
+38,Belize,bz,Belmopan,314522,22966,2
+39,Canada,ca,Ottawa,33679000,9984670,2
+40,Cocos [Keeling] Islands,cc,West Island,628,14,5
+41,Congo [DRC],cd,Kinshasa,70916439,2345410,1
+42,Central African Republic,cf,Bangui,4844927,622984,1
+43,Congo [Republic],cg,Brazzaville,3039126,342000,1
+44,Switzerland,ch,Berne,7581000,41290,6
+45,Ivory Coast,ci,Yamoussoukro,21058798,322460,1
+46,Cook Islands,ck,Avarua,21388,240,3
+47,Chile,cl,Santiago,16746491,756950,7
+48,Cameroon,cm,Yaoundé,19294149,475440,1
+49,China,cn,Beijing,1330044000,9596960,5
+50,Colombia,co,Bogotá,44205293,1138910,7
+51,Costa Rica,cr,San José,4516220,51100,2
+52,Serbia and Montenegro,cs,Belgrade,10829175,102350,6
+53,Cuba,cu,Havana,11423000,110860,2
+54,Cape Verde,cv,Praia,508659,4033,1
+55,Curacao,cw,Willemstad,141766,0,2
+56,Christmas Island,cx,Flying Fish Cove,1500,135,5
+57,Cyprus,cy,Nicosia,1102677,9250,6
+58,Czech Republic,cz,Prague,10476000,78866,6
+59,Germany,de,Berlin,81802257,357021,6
+60,Djibouti,dj,Djibouti,740528,23000,1
+61,Denmark,dk,Copenhagen,5484000,43094,6
+62,Dominica,dm,Roseau,72813,754,2
+63,Dominican Republic,do,Santo Domingo,9823821,48730,2
+64,Algeria,dz,Algiers,34586184,2381740,1
+65,Ecuador,ec,Quito,14790608,283560,7
+66,Estonia,ee,Tallinn,1291170,45226,6
+67,Egypt,eg,Cairo,80471869,1001450,1
+68,Western Sahara,eh,El-Aaiun,273008,266000,1
+69,Eritrea,er,Asmara,5792984,121320,1
+70,Spain,es,Madrid,46505963,504782,6
+71,Ethiopia,et,Addis Ababa,88013491,1127127,1
+72,Finland,fi,Helsinki,5244000,337030,6
+73,Fiji,fj,Suva,875983,18270,3
+74,Falkland Islands,fk,Stanley,2638,12173,7
+75,Micronesia,fm,Palikir,107708,702,3
+76,Faroe Islands,fo,Tórshavn,48228,1399,6
+77,France,fr,Paris,64768389,547030,6
+78,Gabon,ga,Libreville,1545255,267667,1
+79,United Kingdom,gb,London,62348447,244820,6
+80,Grenada,gd,St. Georges,107818,344,2
+81,Georgia,ge,Tbilisi,4630000,69700,5
+82,French Guiana,gf,Cayenne,195506,91000,7
+83,Guernsey,gg,St Peter Port,65228,78,6
+84,Ghana,gh,Accra,24339838,239460,1
+85,Gibraltar,gi,Gibraltar,27884,6,6
+86,Greenland,gl,Nuuk,56375,2166086,2
+87,Gambia,gm,Banjul,1593256,11300,1
+88,Guinea,gn,Conakry,10324025,245857,1
+89,Guadeloupe,gp,Basse-Terre,443000,1780,2
+90,Equatorial Guinea,gq,Malabo,1014999,28051,1
+91,Greece,gr,Athens,11000000,131940,6
+92,South Georgia and the South Sandwich Islands,gs,Grytviken,30,3903,4
+93,Guatemala,gt,Guatemala City,13550440,108890,2
+94,Guam,gu,Hagåtña,168564,549,3
+95,Guinea-Bissau,gw,Bissau,1565126,36120,1
+96,Guyana,gy,Georgetown,748486,214970,7
+97,Hong Kong,hk,Hong Kong,6898686,1092,5
+98,Heard Island and McDonald Islands,hm,,0,412,4
+99,Honduras,hn,Tegucigalpa,7989415,112090,2
+100,Croatia,hr,Zagreb,4491000,56542,6
+101,Haiti,ht,Port-au-Prince,9648924,27750,2
+102,Hungary,hu,Budapest,9930000,93030,6
+103,Indonesia,id,Jakarta,242968342,1919440,5
+104,Ireland,ie,Dublin,4622917,70280,6
+105,Israel,il,Jerusalem,7353985,20770,5
+106,Isle of Man,im,DouglasIsle of Man,75049,572,6
+107,India,in,New Delhi,1173108018,3287590,5
+108,British Indian Ocean Territory,io,Diego Garcia,4000,60,5
+109,Iraq,iq,Baghdad,29671605,437072,5
+110,Iran,ir,Tehran,76923300,1648000,5
+111,Iceland,is,Reykjavík,308910,103000,6
+112,Italy,it,Rome,58145000,301230,6
+113,Jersey,je,Saint Helier,90812,116,6
+114,Jamaica,jm,Kingston,2847232,10991,2
+115,Jordan,jo,Amman,6407085,92300,5
+116,Japan,jp,Tokyo,127288000,377835,5
+117,Kenya,ke,Nairobi,40046566,582650,1
+118,Kyrgyzstan,kg,Bishkek,5508626,198500,5
+119,Cambodia,kh,Phnom Penh,14453680,181040,5
+120,Kiribati,ki,Tarawa,92533,811,3
+121,Comoros,km,Moroni,773407,2170,1
+122,Saint Kitts and Nevis,kn,Basseterre,49898,261,2
+123,North Korea,kp,Pyongyang,22912177,120540,5
+124,South Korea,kr,Seoul,48422644,98480,5
+125,Kuwait,kw,Kuwait City,2789132,17820,5
+126,Cayman Islands,ky,George Town,44270,262,2
+127,Kazakhstan,kz,Astana,15340000,2717300,5
+128,Laos,la,Vientiane,6368162,236800,5
+129,Lebanon,lb,Beirut,4125247,10400,5
+130,Saint Lucia,lc,Castries,160922,616,2
+131,Liechtenstein,li,Vaduz,35000,160,6
+132,Sri Lanka,lk,Colombo,21513990,65610,5
+133,Liberia,lr,Monrovia,3685076,111370,1
+134,Lesotho,ls,Maseru,1919552,30355,1
+135,Lithuania,lt,Vilnius,3565000,65200,6
+136,Luxembourg,lu,Luxembourg,497538,2586,6
+137,Latvia,lv,Riga,2217969,64589,6
+138,Libya,ly,Tripolis,6461454,1759540,1
+139,Morocco,ma,Rabat,31627428,446550,1
+140,Monaco,mc,Monaco,32965,2,6
+141,Moldova,md,Chişinău,4324000,33843,6
+142,Montenegro,me,Podgorica,666730,14026,6
+143,Saint Martin,mf,Marigot,35925,53,2
+144,Madagascar,mg,Antananarivo,21281844,587040,1
+145,Marshall Islands,mh,Majuro,65859,181,3
+146,Macedonia,mk,Skopje,2061000,25333,6
+147,Mali,ml,Bamako,13796354,1240000,1
+148,Myanmar [Burma],mm,Nay Pyi Taw,53414374,678500,5
+149,Mongolia,mn,Ulan Bator,3086918,1565000,5
+150,Macau,mo,Macao,449198,254,5
+151,Northern Mariana Islands,mp,Saipan,86000,477,3
+152,Martinique,mq,Fort-de-France,432900,1100,2
+153,Mauritania,mr,Nouakchott,3205060,1030700,1
+154,Montserrat,ms,Plymouth,9341,102,2
+155,Malta,mt,Valletta,403000,316,6
+156,Mauritius,mu,Port Louis,1294104,2040,1
+157,Maldives,mv,Malé,395650,300,5
+158,Malawi,mw,Lilongwe,15447500,118480,1
+159,Mexico,mx,Mexico City,112468855,1972550,2
+160,Malaysia,my,Kuala Lumpur,28274729,329750,5
+161,Mozambique,mz,Maputo,22061451,801590,1
+162,Namibia,na,Windhoek,2128471,825418,1
+163,New Caledonia,nc,Nouméa,216494,19060,3
+164,Niger,ne,Niamey,15878271,1267000,1
+165,Norfolk Island,nf,Kingston,1828,346,3
+166,Nigeria,ng,Abuja,154000000,923768,1
+167,Nicaragua,ni,Managua,5995928,129494,2
+168,Netherlands,nl,Amsterdam,16645000,41526,6
+169,Norway,no,Oslo,4907000,324220,6
+170,Nepal,np,Kathmandu,28951852,140800,5
+171,Nauru,nr,Yaren,10065,21,3
+172,Niue,nu,Alofi,2166,260,3
+173,New Zealand,nz,Wellington,4252277,268680,3
+174,Oman,om,Muscat,2967717,212460,5
+175,Panama,pa,Panama City,3410676,78200,2
+176,Peru,pe,Lima,29907003,1285220,7
+177,French Polynesia,pf,Papeete,270485,4167,3
+178,Papua New Guinea,pg,Port Moresby,6064515,462840,3
+179,Philippines,ph,Manila,99900177,300000,5
+180,Pakistan,pk,Islamabad,184404791,803940,5
+181,Poland,pl,Warsaw,38500000,312685,6
+182,Saint Pierre and Miquelon,pm,Saint-Pierre,7012,242,2
+183,Pitcairn Islands,pn,Adamstown,46,47,3
+184,Puerto Rico,pr,San Juan,3916632,9104,2
+185,Palestinian Territories,ps,East Jerusalem,3800000,5970,5
+186,Portugal,pt,Lisbon,10676000,92391,6
+187,Palau,pw,Ngerulmud,20303,458,3
+188,Paraguay,py,Asunción,6375830,406750,7
+189,Qatar,qa,Doha,840926,11437,5
+190,Réunion,re,Saint-Denis,776948,2517,1
+191,Romania,ro,Bucharest,21959278,237500,6
+192,Serbia,rs,Belgrade,7344847,88361,6
+193,Russia,ru,Moscow,140702000,17100000,6
+194,Rwanda,rw,Kigali,11055976,26338,1
+195,Saudi Arabia,sa,Riyadh,25731776,1960582,5
+196,Solomon Islands,sb,Honiara,559198,28450,3
+197,Seychelles,sc,Victoria,88340,455,1
+198,Sudan,sd,Khartoum,43939598,2505810,1
+199,Sweden,se,Stockholm,9045000,449964,6
+200,Singapore,sg,Singapur,4701069,6927,5
+201,Saint Helena,sh,Jamestown,7460,410,1
+202,Slovenia,si,Ljubljana,2007000,20273,6
+203,Svalbard and Jan Mayen,sj,Longyearbyen,2550,62049,6
+204,Slovakia,sk,Bratislava,5455000,48845,6
+205,Sierra Leone,sl,Freetown,5245695,71740,1
+206,San Marino,sm,San Marino,31477,612,6
+207,Senegal,sn,Dakar,12323252,196190,1
+208,Somalia,so,Mogadishu,10112453,637657,1
+209,Suriname,sr,Paramaribo,492829,163270,7
+210,São Tomé and Príncipe,st,São Tomé,175808,1001,1
+211,El Salvador,sv,San Salvador,6052064,21040,2
+212,Sint Maarten,sx,Philipsburg,37429,0,2
+213,Syria,sy,Damascus,22198110,185180,5
+214,Swaziland,sz,Mbabane,1354051,17363,1
+215,Turks and Caicos Islands,tc,Cockburn Town,20556,430,2
+216,Chad,td,NDjamena,10543464,1284000,1
+217,French Southern Territories,tf,Port-aux-Français,140,7829,4
+218,Togo,tg,Lomé,6587239,56785,1
+219,Thailand,th,Bangkok,67089500,514000,5
+220,Tajikistan,tj,Dushanbe,7487489,143100,5
+221,Tokelau,tk,,1466,10,3
+222,East Timor,tl,Dili,1154625,15007,3
+223,Turkmenistan,tm,Ashgabat,4940916,488100,5
+224,Tunisia,tn,Tunis,10589025,163610,1
+225,Tonga,to,Nukualofa,122580,748,3
+226,Turkey,tr,Ankara,77804122,780580,5
+227,Trinidad and Tobago,tt,Port of Spain,1228691,5128,2
+228,Tuvalu,tv,Funafuti,10472,26,3
+229,Taiwan,tw,Taipei,22894384,35980,5
+230,Tanzania,tz,Dodoma,41892895,945087,1
+231,Ukraine,ua,Kiev,45415596,603700,6
+232,Uganda,ug,Kampala,33398682,236040,1
+233,U.S. Minor Outlying Islands,um,,0,0,3
+234,United States,us,Washington,310232863,9629091,2
+235,Uruguay,uy,Montevideo,3477000,176220,7
+236,Uzbekistan,uz,Tashkent,27865738,447400,5
+237,Vatican City,va,Vatican City,921,1,6
+238,Saint Vincent and the Grenadines,vc,Kingstown,104217,389,2
+239,Venezuela,ve,Caracas,27223228,912050,7
+240,British Virgin Islands,vg,Road Town,21730,153,2
+241,U.S. Virgin Islands,vi,Charlotte Amalie,108708,352,2
+242,Vietnam,vn,Hanoi,89571130,329560,5
+243,Vanuatu,vu,Port Vila,221552,12200,3
+244,Wallis and Futuna,wf,MatâUtu,16025,274,3
+245,Samoa,ws,Apia,192001,2944,3
+246,Kosovo,xk,Pristina,1800000,0,6
+247,Yemen,ye,San‘a’,23495361,527970,5
+248,Mayotte,yt,Mamoudzou,159042,374,1
+249,South Africa,za,Pretoria,49000000,1219912,1
+250,Zambia,zm,Lusaka,13460305,752614,1
+251,Zimbabwe,zw,Harare,11651858,390580,1
